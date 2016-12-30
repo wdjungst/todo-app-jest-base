@@ -5,7 +5,7 @@ const TodoForm = ({ onAdd }) => {
   return (
     <form 
       className="center"
-      onSubmit={ e => {
+      onSubmit={ (e) => {
         e.preventDefault();
         onAdd(input.value);
         input.value = null;

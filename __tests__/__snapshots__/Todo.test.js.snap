@@ -1,0 +1,123 @@
+exports[`Todo Component is rendered 1`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;
+
+exports[`Todo Component is rendered 2`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;
+
+exports[`Todo Component is rendered with completed style 1`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "color": "grey",
+      "cursor": "pointer",
+      "textDecoration": "line-through",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;
+
+exports[`test Component is rendered 1`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;
+
+exports[`test Component is rendered 2`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "cursor": "pointer",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;
+
+exports[`test Component is rendered with completed style 1`] = `
+<li
+  className="collection-item"
+  onClick={[Function]}
+  style={
+    Object {
+      "color": "grey",
+      "cursor": "pointer",
+      "textDecoration": "line-through",
+    }
+  }>
+  <div>
+    Buy Milk
+    <a
+      className="secondary-content"
+      onClick={[Function]}>
+      Delete
+    </a>
+  </div>
+</li>
+`;

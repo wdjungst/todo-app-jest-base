@@ -1,0 +1,21 @@
+exports[`<TodoForm /> Component is rendered 1`] = `
+<form
+  className="center"
+  onSubmit={[Function]}>
+  <input />
+</form>
+`;
+
+exports[`<TodoList /> Component is rendered 1`] = `
+<div>
+  <form
+    className="center"
+    onSubmit={[Function]}>
+    <input />
+  </form>
+  <p
+    className="center">
+    Add Some items
+  </p>
+</div>
+`;

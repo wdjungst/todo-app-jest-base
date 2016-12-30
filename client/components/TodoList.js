@@ -1,6 +1,7 @@
 import React from 'react';
 import TodoForm from './TodoForm';
 import Todo from './Todo';
+import $ from 'jquery';
 
 class TodoList extends React.Component {
   constructor(props) {
